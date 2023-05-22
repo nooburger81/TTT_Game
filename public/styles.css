@@ -54,7 +54,8 @@ body {
 .cell.x::before,
 .cell.x::after {
     content: '';
-    width: calc(var(--mark-size) * .15);
+    position: absolute;
+    width: calc(var(--mark-size) * .25);
     height: var(--mark-size);
     background-color: black;
 }
