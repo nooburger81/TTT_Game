@@ -1,2 +1,2 @@
 # codeName-caramel
- tic-tac-toe with react
+ tic-tac-toe game
